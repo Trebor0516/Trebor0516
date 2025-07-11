@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hola, soy ROBERT MAURCIO GALLINATE ARUQUIPA   
+🎓 Estudiante de Ingeniería en Sistemas  
+🌟 "El código es poesía que la máquina entiende."
